@@ -5,10 +5,8 @@ ARM Cortex Image Processing C Code
 ![Dxxxxx](https://github.com/omerfaruktekin13/ARM-Cortex-ImageProcessing-C-Code/blob/main/Media/reference_image.jpg "Deneme ")
 |:--:|
 | *Reference Image* |
-![Dxxxxx](https://github.com/omerfaruktekin13/WheelsCANBusCommunicationSimulinkVehicleNetwork/blob/main/Media/Wheels.png "Deneme ")
-| *After Algorithm* |
 ![Dxxxxx](https://github.com/omerfaruktekin13/ARM-Cortex-ImageProcessing-C-Code/blob/main/Media/after_algorithm.jpg "Deneme ")
-| *IMU Sensor Fusion* |
+| *After Algorithm* |
 ![Dxxxxx](https://github.com/omerfaruktekin13/ARM-Cortex-ImageProcessing-C-Code/blob/main/Media/ArmCortex.jpg "Deneme ")
 | *Texas Instruments ARM-Based Microcontroller* |
 
