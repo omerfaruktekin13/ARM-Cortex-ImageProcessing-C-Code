@@ -1,13 +1,3 @@
-/*
- * Academic License - for use in teaching, academic research, and meeting
- * course requirements at degree granting institutions only.  Not for
- * government, commercial, or other organizational use.
- *
- * imgprocessing_terminate.h
- *
- * Code generation for function 'imgprocessing_terminate'
- *
- */
 
 #pragma once
 
@@ -26,4 +16,3 @@ void imgprocessing_atexit(void);
 
 void imgprocessing_terminate(void);
 
-/* End of code generation (imgprocessing_terminate.h) */
