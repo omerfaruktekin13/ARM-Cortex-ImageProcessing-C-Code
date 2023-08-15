@@ -1,13 +1,3 @@
-/*
- * Academic License - for use in teaching, academic research, and meeting
- * course requirements at degree granting institutions only.  Not for
- * government, commercial, or other organizational use.
- *
- * imgprocessing_initialize.c
- *
- * Code generation for function 'imgprocessing_initialize'
- *
- */
 
 /* Include files */
 #include "imgprocessing_initialize.h"
@@ -26,8 +16,8 @@ static void imgprocessing_once(void)
   covrtAllocateInstanceData(&emlrtCoverageInstance);
   /* Initialize Coverage Information */
   covrtScriptInit(&emlrtCoverageInstance,
-                  "C:\\Users\\omert\\Documents\\MATLAB\\imgprocessing.m", 0U,
-                  1U, 1U, 0U, 0U, 0U, 0U, 0U, 0U, 0U, 0U);
+                  0U,
+    1U, 1U, 0U, 0U, 0U, 0U, 0U, 0U, 0U, 0U);
   /* Initialize Function Information */
   covrtFcnInit(&emlrtCoverageInstance, 0U, 0U, "imgprocessing", 0, -1, 95);
   /* Initialize Basic Block Information */
@@ -59,4 +49,3 @@ void imgprocessing_initialize(void)
   }
 }
 
-/* End of code generation (imgprocessing_initialize.c) */
