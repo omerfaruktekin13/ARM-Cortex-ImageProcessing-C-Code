@@ -1,13 +1,4 @@
-/*
- * Academic License - for use in teaching, academic research, and meeting
- * course requirements at degree granting institutions only.  Not for
- * government, commercial, or other organizational use.
- *
- * imgprocessing_initialize.h
- *
- * Code generation for function 'imgprocessing_initialize'
- *
- */
+
 
 #pragma once
 
@@ -24,4 +15,3 @@
 /* Function Declarations */
 void imgprocessing_initialize(void);
 
-/* End of code generation (imgprocessing_initialize.h) */
