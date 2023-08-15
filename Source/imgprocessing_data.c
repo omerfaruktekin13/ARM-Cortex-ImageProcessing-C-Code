@@ -1,13 +1,3 @@
-/*
- * Academic License - for use in teaching, academic research, and meeting
- * course requirements at degree granting institutions only.  Not for
- * government, commercial, or other organizational use.
- *
- * imgprocessing_data.c
- *
- * Code generation for function 'imgprocessing_data'
- *
- */
 
 /* Include files */
 #include "imgprocessing_data.h"
@@ -29,5 +19,3 @@ emlrtContext emlrtContextGlobal = {
 };
 
 covrtInstance emlrtCoverageInstance;
-
-/* End of code generation (imgprocessing_data.c) */
