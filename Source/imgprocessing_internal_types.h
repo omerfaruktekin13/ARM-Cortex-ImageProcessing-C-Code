@@ -1,14 +1,3 @@
-/*
- * Academic License - for use in teaching, academic research, and meeting
- * course requirements at degree granting institutions only.  Not for
- * government, commercial, or other organizational use.
- *
- * imgprocessing_internal_types.h
- *
- * Code generation for function 'imgprocessing'
- *
- */
-
 #pragma once
 
 /* Include files */
@@ -72,5 +61,3 @@ typedef struct {
   const char_T *pName;
 } rtRunTimeErrorInfo;
 #endif /* typedef_rtRunTimeErrorInfo */
-
-/* End of code generation (imgprocessing_internal_types.h) */
