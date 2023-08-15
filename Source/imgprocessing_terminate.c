@@ -1,13 +1,3 @@
-/*
- * Academic License - for use in teaching, academic research, and meeting
- * course requirements at degree granting institutions only.  Not for
- * government, commercial, or other organizational use.
- *
- * imgprocessing_terminate.c
- *
- * Code generation for function 'imgprocessing_terminate'
- *
- */
 
 /* Include files */
 #include "imgprocessing_terminate.h"
@@ -36,5 +26,3 @@ void imgprocessing_terminate(void)
 {
   emlrtDestroyRootTLS(&emlrtRootTLSGlobal);
 }
-
-/* End of code generation (imgprocessing_terminate.c) */
