@@ -1,5 +1,5 @@
-# ARM-Cortex-ImageProcessing-C-Code
-ARM Cortex Image Processing C Code
+# ARM Cortex ImageProcessing C Code
+
 
 ## Project Media
 ![Dxxxxx](https://github.com/omerfaruktekin13/ARM-Cortex-ImageProcessing-C-Code/blob/main/Media/reference_image.jpg "Deneme ")
